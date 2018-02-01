@@ -29,9 +29,9 @@
     </site>
            
      <repository>
-       <id>nexus3</id>
-       <name>nexus3</name>
-       <url>http://192.168.136.133:8081/nexus/content/repositories/nexus3/</url>
+       <id>gol-repo</id>
+       <name>Releases</name>
+       <url>http://192.168.136.133:8081/nexus/content/repositories/gol-repo/</url>
      </repository>
   </distributionManagement>
 
