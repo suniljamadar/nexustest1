@@ -31,7 +31,7 @@
      <repository>
        <id>gol-repo</id>
        <name>Releases</name>
-       <url>http://192.168.136.133:8081/nexus/content/repositories/gol-repo</url>
+       <url>http://192.168.136.133:8081/nexus/content/repositories/gol-repo/</url>
      </repository>
   </distributionManagement>
 
